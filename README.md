@@ -101,4 +101,4 @@ The `video_player.py` file contains the video player component that plays videos
   - Checks the media player status and emits a `finished` signal when a video ends.
 
 
-_This code is (sadly) used by https://olhar.media/ in production._
+_This code is used by https://olhar.media/ in production._
